@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://admin:123@mongodb.kudta.mongodb.net/mpitback?retryWrites=true&w=majority",
+    "secret": "123"
+}
